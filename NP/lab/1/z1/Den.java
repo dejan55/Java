@@ -1,0 +1,10 @@
+public enum Den{
+	NULZ,
+	PONEDELNIK,
+	VTORNIK,
+	SREDA,
+	CETVRTOK,
+	PETOK,
+	SABOTA,
+	NEDELA;
+}
